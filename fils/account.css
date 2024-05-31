@@ -1,0 +1,64 @@
+.ico img {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.titel {
+	text-align: center;
+	font-family: "terraria";
+	color: black;
+}
+
+.accounts div {
+    margin: 10px 0;
+    background-color: #E9E9E9;
+    text-align: center;
+	padding: 10px;
+	border-width:0px 0px 0px 10px ;
+	border-style: solid;
+	border-radius: 10px;
+	box-shadow: #cccccc;
+	width: 200px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+a {
+	text-decoration: none;
+	font-family: "terraria";
+}
+
+.fa {
+	border-color:rgb(75, 75, 255) ;
+}
+
+.in {
+	border-color: rgb(255, 0, 157);
+}
+
+.tw {
+	border-color: aqua;
+}
+
+.vk {
+	border-color: rgb(108, 108, 255);
+}
+
+.di {
+	border-color: blueviolet;
+}
+
+.pi {
+	border-color: red;
+}
+
+.ri {
+	border-color: orangered;
+}
+
+@font-face {
+	font-family: "terraria";
+	src: url("../fils/ANDYB.ttf");
+}
